@@ -1,2 +1,2 @@
-# # this is my documentation from my interview with poeple on the way how they use their medicament
+## This is my documentation from my interview with people on the way how they use their medication
 # questionnaire observation cours:
