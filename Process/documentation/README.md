@@ -1,7 +1,7 @@
 # This is my documentation from my interview with people and the way how they use their medication 
 ## questionnaire observation cours
 
-* age :23
+age :23  
 sex: woman
 sort of medication: contraceptive pill , anxiolytic
 frequency: every day before sleep (contraceptive pill)
