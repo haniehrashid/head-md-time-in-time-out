@@ -1,10 +1,10 @@
 # This is my documentation from my interview with people and the way how they use their medication 
 ## questionnaire observation cours
 
-age :23
+* age :23
 sex: woman
 sort of medication: contraceptive pill , anxiolytic
-frenquence: every day before sleep (contraceptive pill)
+frequency: every day before sleep (contraceptive pill)
 after meals (anxiolytic)
 organisation: iphone alarme
 
@@ -12,7 +12,7 @@ organisation: iphone alarme
 age : 35 
 sex : man 
 sort of medication: blood pressure pills, polycystic kidney disease pills 
-frenquence: half of pill every morning (blood pressure), 1 pill in morning and 1 pill 8 hours after (polycystic kidney disease pills )
+frequency: half of pill every morning (blood pressure), 1 pill in morning and 1 pill 8 hours after (polycystic kidney disease pills )
 organisation: in my mind and alarme in phone  8 hours after 
 
 
