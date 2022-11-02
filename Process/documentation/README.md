@@ -46,30 +46,30 @@ frequency: before every day during the meals for several mounths, after certain 
 organisation : when it was every day i used to it, for every 3 days i write it in my placket the next day i have to take, and now i take every sunday  
 
 
-age: 71 
-sex: woman 
-sort of medication :blood pressure pills, thins blood pills ,cholesterol pills , Hyperuricaemia pills (is an abnormally high level of uric acid in the blood because of 
-renal failure), osteoporosis pills, vitamins B12 for renal failure, BI-DE (vitamine D-3) for Hyperuricaemia, estomac protection to support all the other traitements.
+age: 71  
+sex: woman  
+sort of medication :blood pressure pills, thins blood pills ,cholesterol pills , Hyperuricaemia pills (is an abnormally high level of uric acid in the blood because of  
+renal failure), osteoporosis pills, vitamins B12 for renal failure, BI-DE (vitamine D-3) for Hyperuricaemia, estomac protection to support all the other traitements.  
 
-frequency: blood pressure pills 1 every morning and 1 every evening  
-thins blood pills 1 every morning  
-cholesterol pills 1 every evening 
-Hyperuricaemia pills 1 every morning 
-osteoporosis pills 1 every morning and 1 every evening but not en the same time 2 hours later with others pills 
-vitamins B12 : 1 time every week i take on sunday  
-BI-DE or vitamine D-3: 70 drops per week i take also on sunday 
+frequency: blood pressure pills 1 every morning and 1 every evening   
+thins blood pills 1 every morning   
+cholesterol pills 1 every evening  
+Hyperuricaemia pills 1 every morning  
+osteoporosis pills 1 every morning and 1 every evening but not en the same time 2 hours later with others pills  
+vitamins B12 : 1 time every week i take on sunday   
+BI-DE or vitamine D-3: 70 drops per week i take also on sunday  
 estomac protection : every day normaly at 14:30 but i take it at during the night when i wake up to go to WC  
-organisation: i have 3 bascket in the kitchen, 1 with every pills for the morning , 1 with every pills for night and the last with the one for sunday.  
-when i go to vaccation like chalet for short trip i put in pillbox
-when i go to vaccation like long trips i ask my pharmacy to prepare the portion in vaccume formes of my pills for journey time i pay 150 fr for this service.
+organisation: i have 3 bascket in the kitchen, 1 with every pills for the morning , 1 with every pills for night and the last with the one for sunday.   
+when i go to vaccation like chalet for short trip i put in pillbox  
+when i go to vaccation like long trips i ask my pharmacy to prepare the portion in vaccume formes of my pills for journey time i pay 150 fr for this service.  
 
 
 
-age :56 
-sex: woman 
-sort of medication : injection for Polyarthritis(is any type of arthritis that involves 5 or more joints simultaneously. It is usually associated with autoimmune conditions and may be experienced at any age and is not sex specific)  
-frequency: 1 injection every week , another sort of injection every 3 week  
-organisation: 1 do my injection every friday and the other i have calender in my fridge that i mark the next date because i have to conserve my injection in the fridge that's why i put my calnder there. 
+age :56  
+sex: woman  
+sort of medication : injection for Polyarthritis(is any type of arthritis that involves 5 or more joints simultaneously. It is usually associated with autoimmune conditions and may be experienced at any age and is not sex specific)   
+frequency: 1 injection every week , another sort of injection every 3 week   
+organisation: 1 do my injection every friday and the other i have calender in my fridge that i mark the next date because i have to conserve my injection in the fridge that's why i put my calnder there.  
 
 
 
