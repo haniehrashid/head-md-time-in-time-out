@@ -62,6 +62,11 @@ estomac protection : every day normaly at 14:30 but i take it at during the nigh
 organisation: i have 3 bascket in the kitchen, 1 with every pills for the morning , 1 with every pills for night and the last with the one for sunday.   
 when i go to vaccation like chalet for short trip i put in pillbox  
 when i go to vaccation like long trips i ask my pharmacy to prepare the portion in vaccume formes of my pills for journey time i pay 150 fr for this service.  
+![](1.JPG)
+![](2.JPG)
+![](3.JPG)
+
+
 
 
 
