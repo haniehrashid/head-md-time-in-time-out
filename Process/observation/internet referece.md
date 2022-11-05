@@ -20,5 +20,16 @@ https://lepharmachien.com/pilule_contraceptive_partie1/
 
 ![](game.jpeg)
 
+https://www.mediamatic.net/nl/page/367865/connecting-the-menstruation-and-food-cycle
+
+https://www.period.media/factsfigures/menstruating-in-zero-gravity/
+
+http://mum.org/museum.htm
+
+https://designawards.core77.com/Strategy-Research/74650/Re-Defining-Menstruation
+
+![](3.jpeg)
+
+
 
 
