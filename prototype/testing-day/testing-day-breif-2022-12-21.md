@@ -1,0 +1,3 @@
+#breifing 
+Form this testing day, I discord that my project need a using manuel that i have to creat the scenario is clear for the women but for the men is kind of so abstract. other things i found out from my visual that every one don’t have the same imaginig of period and help me to chose better. 
+Other thing for the woman the important phase is ovulation and period phase and end phase is not very important to them that why i think i will remove it to amplifie my object. 
